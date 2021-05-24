@@ -1,0 +1,2023 @@
+Using pre-set license
+Built from '2020.3/staging' branch; Version is '2020.3.3f1 (76626098c1c4) revision 7758432'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Pro for Workstations; OS build 19042.985; Version 2009; 64bit' Language: 'en' Physical Memory: 16335 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2020.3.3f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+H:/Downloads/UnityFirebaseDatabaseTutorial-main/UnityFirebaseDatabaseTutorial-main/MazifyGame
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+61398
+Successfully changed project path to: H:/Downloads/UnityFirebaseDatabaseTutorial-main/UnityFirebaseDatabaseTutorial-main/MazifyGame
+H:/Downloads/UnityFirebaseDatabaseTutorial-main/UnityFirebaseDatabaseTutorial-main/MazifyGame
+Using Asset Import Pipeline V2.
+Unable to join player connection multicast group.
+
+Refreshing native plugins compatible for Editor in 81.98 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.3f1 (76626098c1c4)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path H:/Downloads/UnityFirebaseDatabaseTutorial-main/UnityFirebaseDatabaseTutorial-main/MazifyGame/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1070 Ti (ID=0x1b82)
+    Vendor:   
+    VRAM:     8079 MB
+    Driver:   27.21.14.6647
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56996
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2020.3.3f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.003112 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 48.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.903 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.016742 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 51.24 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.869 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Shader 'Universal Render Pipeline/Particles/Lit': fallback shader 'Universal Render Pipeline/Particles/SimpleLit' not found
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
+Refreshing native plugins compatible for Editor in 0.97 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2356 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 130.6 MB.
+System memory in use after: 130.5 MB.
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 2737.
+Total: 2.253100 ms (FindLiveObjects: 0.316100 ms CreateObjectMapping: 0.068200 ms MarkObjects: 1.599500 ms  DeleteObjects: 0.268500 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/Clean Settings UI/Fonts
+  artifactKey: Guid(b24e26e7133edd844ac4c86f43a52e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Fonts using Guid(b24e26e7133edd844ac4c86f43a52e04) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3798e8be7157d03650083348fdb2d0b') in 0.010942 seconds
+  Import took 0.014049 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.051632 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png
+  artifactKey: Guid(4ccf43d26c4748c792174516f4a8fcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text Image 1.png using Guid(4ccf43d26c4748c792174516f4a8fcef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '288fb633c1781449966b923c1892b4f2') in 0.161869 seconds
+  Import took 0.165203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068161 seconds.
+  path: Assets/Plugins/Android/Firebase.androidlib/res
+  artifactKey: Guid(c2891b60f8616c94da0d9610dfbd39aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase.androidlib/res using Guid(c2891b60f8616c94da0d9610dfbd39aa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eee947dc8e44625926262db6e279ae6c') in 0.016972 seconds
+  Import took 0.020820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.093954 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity
+  artifactKey: Guid(f9b4c22e15cff344ba9fc6542a58dd07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/25 - Sunny Days Example.unity using Guid(f9b4c22e15cff344ba9fc6542a58dd07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14905dd714cdcb961d76083f9814d8fe') in 0.009166 seconds
+  Import took 0.012640 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008248 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets
+  artifactKey: Guid(3ac6db30e75b49b282a3564110579f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets using Guid(3ac6db30e75b49b282a3564110579f27) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44b64bb4faf357f8e4b6a1f4bd6e5281') in 0.010495 seconds
+  Import took 0.013612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016215 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset
+  artifactKey: Guid(fbef3c704dce48f08a44612d6c856c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/Default Sprite Asset.asset using Guid(fbef3c704dce48f08a44612d6c856c8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9e291f08b299fa8ffb67f03d4b15e29f') in 0.017567 seconds
+  Import took 0.020967 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016130 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity
+  artifactKey: Guid(0851605490a599b46b6ac5cb681d93ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/26 - Dropdown Placeholder Example.unity using Guid(0851605490a599b46b6ac5cb681d93ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c5fad5349467c41956a4406bf55bee3') in 0.009694 seconds
+  Import took 0.012824 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058560 seconds.
+  path: Assets/Clean Settings UI/Images/square_button_up.png
+  artifactKey: Guid(7d30a7673c95044c5ba541d8597d4f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/square_button_up.png using Guid(7d30a7673c95044c5ba541d8597d4f60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24e233977442f2df7bb4c8d8d7d8e24c') in 0.042044 seconds
+  Import took 0.045451 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.036626 seconds.
+  path: Assets/TextMesh Pro/Shaders
+  artifactKey: Guid(e9f693669af91aa45ad615fc681ed29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders using Guid(e9f693669af91aa45ad615fc681ed29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27159df42cc320b4479891ffa19e620e') in 0.010573 seconds
+  Import took 0.013864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008829 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures
+  artifactKey: Guid(6e5c6d5e25574122a7a12dbdbbeed156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures using Guid(6e5c6d5e25574122a7a12dbdbbeed156) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'de1846dff0240f5277a37b6ee3884b46') in 0.008988 seconds
+  Import took 0.012413 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066982 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc
+  artifactKey: Guid(d930090c0cd643c7b55f19a38538c162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Surface.cginc using Guid(d930090c0cd643c7b55f19a38538c162) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '97f40f17e6d9d2ee925c670bb773ce66') in 0.010736 seconds
+  Import took 0.014128 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090765 seconds.
+  path: Assets/Plugins/Android/com.google.auto.value.auto-value-annotations-1.6.5.jar
+  artifactKey: Guid(b18204e8d8d7ffd45883b2db1aac75b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.auto.value.auto-value-annotations-1.6.5.jar using Guid(b18204e8d8d7ffd45883b2db1aac75b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cd25efd29f76a3280527b1a8b93b9a9b') in 0.023779 seconds
+  Import took 0.027169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044909 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity
+  artifactKey: Guid(03f9d74cec8e4b94a29d2dfd177c821b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/18 - ScrollRect & Masking & Layout.unity using Guid(03f9d74cec8e4b94a29d2dfd177c821b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f27fd4bd8b874b3b28fcddec428c2a65') in 0.008958 seconds
+  Import took 0.012229 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.014053 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs
+  artifactKey: Guid(1a7eb92a01ed499a987bde9def05fbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_DigitValidator.cs using Guid(1a7eb92a01ed499a987bde9def05fbce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fab59aca7aaf86799b4ab1007cefa96d') in 0.015017 seconds
+  Import took 0.018274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.053860 seconds.
+  path: Assets/Clean Settings UI/Images/square_button_disabled.png
+  artifactKey: Guid(e0310c386b09348d9a23f0797e8fbd0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/square_button_disabled.png using Guid(e0310c386b09348d9a23f0797e8fbd0b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0f8ae881d40cb72852cbbf01baeee48a') in 0.015717 seconds
+  Import took 0.019290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047395 seconds.
+  path: Assets/Plugins/Android/androidx.interpolator.interpolator-1.0.0.aar
+  artifactKey: Guid(fc3acebf311afa54580ad6d6630bc44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.interpolator.interpolator-1.0.0.aar using Guid(fc3acebf311afa54580ad6d6630bc44d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f5c6ac4f02bf3ebf8f2759157a64480') in 0.009942 seconds
+  Import took 0.013195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075351 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd
+  artifactKey: Guid(10c49fcd9c64421db7c0133e61e55f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Circle.psd using Guid(10c49fcd9c64421db7c0133e61e55f97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70ef708c6b780180780f206d9e0d727a') in 0.020139 seconds
+  Import took 0.023511 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042218 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity
+  artifactKey: Guid(03ec435d4b7140e9b2d87f79136d8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/07 - Superscript & Subscript Example.unity using Guid(03ec435d4b7140e9b2d87f79136d8374) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74ef616444fb1d3b61ebf68a455228ac') in 0.010223 seconds
+  Import took 0.013286 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.095450 seconds.
+  path: Assets/Plugins/Android/androidx.documentfile.documentfile-1.0.0.aar
+  artifactKey: Guid(9818e2efda34c1742a7c0e90b5668979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.documentfile.documentfile-1.0.0.aar using Guid(9818e2efda34c1742a7c0e90b5668979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08414bbf48e67a932f69e22dfd78e43a') in 0.008816 seconds
+  Import took 0.012252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.085719 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity
+  artifactKey: Guid(9442cda25baa4a0bb544c4d095b00caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/16 - Linked text overflow mode example.unity using Guid(9442cda25baa4a0bb544c4d095b00caa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4a22c94aea33f250ef57a612feb6815') in 0.017404 seconds
+  Import took 0.064137 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034267 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs
+  artifactKey: Guid(e32c266ee6204b21a427753cb0694c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TeleType.cs using Guid(e32c266ee6204b21a427753cb0694c81) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6cf7cb9dd75199ea7674963c64047fdd') in 0.009423 seconds
+  Import took 0.014838 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.144277 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity
+  artifactKey: Guid(50f52f9274434ecfb34dd87f0836f323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/21 - Script Example.unity using Guid(50f52f9274434ecfb34dd87f0836f323) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '697f83283bf613db71b2a21a55f5b775') in 0.012034 seconds
+  Import took 0.015284 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045351 seconds.
+  path: Assets/Clean Settings UI/Animations/RoundButton.controller
+  artifactKey: Guid(66c7cdaae46d94ff29990dcdeba14d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Animations/RoundButton.controller using Guid(66c7cdaae46d94ff29990dcdeba14d7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0374698ff68fa92f5b8d8656487047e5') in 0.016531 seconds
+  Import took 0.019828 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042362 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs
+  artifactKey: Guid(6f2c5b59b6874405865e2616e4ec276a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_ExampleScript_01.cs using Guid(6f2c5b59b6874405865e2616e4ec276a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '936cd0d17fb895349f78ebee689d7a76') in 0.016848 seconds
+  Import took 0.019960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025959 seconds.
+  path: Assets/Clean Settings UI/Images/square_button_down.png
+  artifactKey: Guid(bd73fe59d7c2747eeace8a3cf7a92671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/square_button_down.png using Guid(bd73fe59d7c2747eeace8a3cf7a92671) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f22414dc46f88261bc498c9db99f805') in 0.027565 seconds
+  Import took 0.030984 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090204 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_background_disabled.png
+  artifactKey: Guid(1b0692daa539c49659e3b90580e17854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_background_disabled.png using Guid(1b0692daa539c49659e3b90580e17854) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6c0914a2d2e0b584db7cb133f0a50df8') in 0.017190 seconds
+  Import took 0.020884 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019447 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs
+  artifactKey: Guid(686ec78b56aa445795335fbadafcfaa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_FrameRateCounter.cs using Guid(686ec78b56aa445795335fbadafcfaa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac2478780098c1d1c8bda5e783740bda') in 0.010770 seconds
+  Import took 0.014164 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088598 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-installations-16.2.1.aar
+  artifactKey: Guid(6e32510c68759be46bb8e18a1b56c728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-installations-16.2.1.aar using Guid(6e32510c68759be46bb8e18a1b56c728) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2cc0bdf7ef386d1e50cee7ac3a86e869') in 0.009394 seconds
+  Import took 0.012703 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049861 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab
+  artifactKey: Guid(b06f0e6c1dfa4356ac918da1bb32c603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs/Text Popup.prefab using Guid(b06f0e6c1dfa4356ac918da1bb32c603) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6663e627047a03660e7e8f3f34ec20de') in 0.062800 seconds
+  Import took 0.066283 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072489 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-measurement-base-17.4.1.aar
+  artifactKey: Guid(816702e4635ef6446b22523e1140683c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-measurement-base-17.4.1.aar using Guid(816702e4635ef6446b22523e1140683c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7c0543f7c3333e3c8f075f01035153c7') in 0.007750 seconds
+  Import took 0.010774 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032081 seconds.
+  path: Assets/Settings
+  artifactKey: Guid(0735c275001a2c84dafdb30deced5d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Settings using Guid(0735c275001a2c84dafdb30deced5d8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '016663af70404454da081c7c5d8f33f5') in 0.007756 seconds
+  Import took 0.010704 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018354 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+  artifactKey: Guid(fade42e8bc714b018fac513c043d323b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt using Guid(fade42e8bc714b018fac513c043d323b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8d094be1161b5fede048dfc0a02da79e') in 0.015057 seconds
+  Import took 0.018549 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015941 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity
+  artifactKey: Guid(875684baf40f4d008ce806d03e2a81b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/13 - Soft Hyphenation.unity using Guid(875684baf40f4d008ce806d03e2a81b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aa55830dc769736e25c309beb010d84') in 0.008010 seconds
+  Import took 0.010887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020147 seconds.
+  path: Assets/TextMesh Pro/Fonts
+  artifactKey: Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts using Guid(6ab70aee4d56447429c680537fbf93ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41fee2e3ec573ae40834f28724bdc970') in 0.009478 seconds
+  Import took 0.012566 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.129332 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-base-17.1.0.aar
+  artifactKey: Guid(749fa3514d4437645bed495dba53106b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-base-17.1.0.aar using Guid(749fa3514d4437645bed495dba53106b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a33aa66c22186a94fb959cf540a992a7') in 0.008718 seconds
+  Import took 0.012121 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008014 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(f54d1bd14bd3ca042bd867b519fee8cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '56bf3d62bbd3cdd448b4cdd3b841b512') in 0.013785 seconds
+  Import took 0.017123 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066685 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-measurement-sdk-api-17.4.1.aar
+  artifactKey: Guid(e4bc5164280d5d64e9ce3f2738419916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-measurement-sdk-api-17.4.1.aar using Guid(e4bc5164280d5d64e9ce3f2738419916) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b56bd609190cbfae4038c172dd9aea27') in 0.009134 seconds
+  Import took 0.012415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017751 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs
+  artifactKey: Guid(43bcd35a1c0c40ccb6d472893fe2093f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TextConsoleSimulator.cs using Guid(43bcd35a1c0c40ccb6d472893fe2093f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e12d01fa576bd06b3eb7face3c60df42') in 0.008284 seconds
+  Import took 0.011669 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.075969 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-database-unity-6.15.2.aar
+  artifactKey: Guid(7b494d5387f97a94c83028b8e567ada7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-database-unity-6.15.2.aar using Guid(7b494d5387f97a94c83028b8e567ada7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a7bfa90aa7e09e5876b2c2fb33ac7d') in 0.010730 seconds
+  Import took 0.014109 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010204 seconds.
+  path: Assets/Plugins/Android/Firebase.androidlib/res/values
+  artifactKey: Guid(9c1c6f15b7335ad4b995f32d277d2b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase.androidlib/res/values using Guid(9c1c6f15b7335ad4b995f32d277d2b60) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd48ea86fcde8e9253ce10cce614630bb') in 0.008872 seconds
+  Import took 0.012016 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043574 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs
+  artifactKey: Guid(a73109742c8d47ac822895a473300c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark03.cs using Guid(a73109742c8d47ac822895a473300c29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f0ddc499f7007f5d1a29ed395c1f6115') in 0.008830 seconds
+  Import took 0.012207 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010600 seconds.
+  path: Assets/Clean Settings UI
+  artifactKey: Guid(670bed45427f0c94890c7492521c904b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI using Guid(670bed45427f0c94890c7492521c904b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '30864ae271f6b711eb4ec7b31e0d3fdb') in 0.009388 seconds
+  Import took 0.012819 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059971 seconds.
+  path: Assets/Plugins/Android/androidx.legacy.legacy-support-core-utils-1.0.0.aar
+  artifactKey: Guid(170ee783ea572964a8f66963e7644712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.legacy.legacy-support-core-utils-1.0.0.aar using Guid(170ee783ea572964a8f66963e7644712) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7161c44b694e7b4ae51577aaf8bb945') in 0.008064 seconds
+  Import took 0.011539 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063675 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg
+  artifactKey: Guid(6eb184de103d4b3f812b38561065192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Horizontal (Color).jpg using Guid(6eb184de103d4b3f812b38561065192f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '711dad61e35cb5204b35a5149d08c912') in 0.014783 seconds
+  Import took 0.018077 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076565 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-tasks-17.0.0.aar
+  artifactKey: Guid(a835f0715633418448848a42dd9c704c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-tasks-17.0.0.aar using Guid(a835f0715633418448848a42dd9c704c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '46cedd54f5d2db702644bbda0a7ccee9') in 0.009188 seconds
+  Import took 0.012599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017103 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+  artifactKey: Guid(48bb5f55d8670e349b6e614913f9d910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader using Guid(48bb5f55d8670e349b6e614913f9d910) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba6f2f131c40c93819de17b53fa0a7e7') in 0.029356 seconds
+  Import took 0.032550 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.096934 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-6.15.2.aar
+  artifactKey: Guid(e57977c0cffef814c960e67585d35bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-auth-unity-6.15.2.aar using Guid(e57977c0cffef814c960e67585d35bd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '103075ce9c7f8f67b3a9cd4c7ec87f42') in 0.009000 seconds
+  Import took 0.012462 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026800 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs
+  artifactKey: Guid(76c11bbcfddf44e0ba17d6c2751c8d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshSpawner.cs using Guid(76c11bbcfddf44e0ba17d6c2751c8d84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01ccc3161a1506f9fa4e06b6d10b2c22') in 0.008483 seconds
+  Import took 0.011599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.103994 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-measurement-impl-17.4.1.aar
+  artifactKey: Guid(cad3ff6126c038a4a9e3090b84fb0236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-measurement-impl-17.4.1.aar using Guid(cad3ff6126c038a4a9e3090b84fb0236) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d79b1a63d3f6b7559c246fd1ba6a3f2') in 0.008245 seconds
+  Import took 0.011479 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025997 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity
+  artifactKey: Guid(9abcd5bd764646568a6ea70d00f9264c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/19 - Masking Texture & Soft Mask.unity using Guid(9abcd5bd764646568a6ea70d00f9264c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2b09232602955c60f6755644264010d6') in 0.010392 seconds
+  Import took 0.013515 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017952 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+  artifactKey: Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset using Guid(f952c082cb03451daed3ee968ac6c63e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '38bc024b2aedfe3ab79f6efd074359fd') in 0.010398 seconds
+  Import took 0.013526 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044189 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset
+  artifactKey: Guid(69a525efa7e6472eab268f6ea605f06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Yellow to Orange - Vertical.asset using Guid(69a525efa7e6472eab268f6ea605f06e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba504174c737172df841411e46ae196e') in 0.009974 seconds
+  Import took 0.013326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020296 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs
+  artifactKey: Guid(4f19c7f94c794c5097d8bd11e39c750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/ObjectSpin.cs using Guid(4f19c7f94c794c5097d8bd11e39c750d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2f35caa4fc000575a6c64602ed0cce9') in 0.008831 seconds
+  Import took 0.011979 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013188 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset
+  artifactKey: Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials/Bangers SDF.asset using Guid(125cb55b44b24c4393181402bc6200e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8068da9d940a9fcb4892ccdebf6ae967') in 0.143070 seconds
+  Import took 0.146534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038470 seconds.
+  path: Assets/Clean Settings UI/Images/line_disabled.png
+  artifactKey: Guid(f842cf0250b4741f98637349549d6cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/line_disabled.png using Guid(f842cf0250b4741f98637349549d6cb4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f9f15e3251907a5af48b5b981a223a') in 0.014490 seconds
+  Import took 0.017765 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016954 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity
+  artifactKey: Guid(70615243e2be4a81afaab9bf5d273d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/05 - Style Tags.unity using Guid(70615243e2be4a81afaab9bf5d273d65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '059fc4f9b430690eccb4857afeeeef47') in 0.009326 seconds
+  Import took 0.012465 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064422 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-18.0.0.aar
+  artifactKey: Guid(eb2eb435e8623f8469a064c32b21466e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-measurement-connector-18.0.0.aar using Guid(eb2eb435e8623f8469a064c32b21466e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a438cf5b3537c8479ccaad9557da412') in 0.010207 seconds
+  Import took 0.013534 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072397 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-basement-17.0.0.aar
+  artifactKey: Guid(84db6d48b21c4ac4d821e06f665ced92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-basement-17.0.0.aar using Guid(84db6d48b21c4ac4d821e06f665ced92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '79868c94a73fabb0ca0d92d09426753e') in 0.011715 seconds
+  Import took 0.014998 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031296 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab
+  artifactKey: Guid(a6e39ced0ea046bcb636c3f0b2e2a745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 1.prefab using Guid(a6e39ced0ea046bcb636c3f0b2e2a745) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'faae85ac502623fe6b0367662ed00a58') in 0.035136 seconds
+  Import took 0.038504 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030726 seconds.
+  path: Assets/Plugins/Android/Firebase/res/values/google-services.xml
+  artifactKey: Guid(63d15173e5b001244a53ba36ff56c29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase/res/values/google-services.xml using Guid(63d15173e5b001244a53ba36ff56c29f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5993c2a32fd6d2f707a99a71573880a') in 0.047947 seconds
+  Import took 0.051578 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019175 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity
+  artifactKey: Guid(9747140c28254be2adc582210dfb89b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/12 - Link Example.unity using Guid(9747140c28254be2adc582210dfb89b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '51f82a07f878bca1e3f2092ebf49d23a') in 0.008160 seconds
+  Import took 0.011069 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009339 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources
+  artifactKey: Guid(d6d3a169ad794942a21da6a552d62f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources using Guid(d6d3a169ad794942a21da6a552d62f6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0e99a9f18f6851e09ca8807fa18e279d') in 0.009594 seconds
+  Import took 0.012611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017785 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs
+  artifactKey: Guid(52ec835d14bd486f900952b77698b7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexZoom.cs using Guid(52ec835d14bd486f900952b77698b7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'df2abbd3a3b69d65afd0e4e68ad11a4d') in 0.008605 seconds
+  Import took 0.011879 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021158 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity
+  artifactKey: Guid(251716609f634449bfe8ce75c0ed78fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/02 - Multi-line TextMesh Pro.unity using Guid(251716609f634449bfe8ce75c0ed78fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f560575b1806b46ebf96a973c9447d1') in 0.010731 seconds
+  Import took 0.014086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020736 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs
+  artifactKey: Guid(e4e0d9ccee5f4950be8979268c9014e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeB.cs using Guid(e4e0d9ccee5f4950be8979268c9014e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6a74fbbbc3dea6de049befdc182574c') in 0.008371 seconds
+  Import took 0.011360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.080499 seconds.
+  path: Assets/Clean Settings UI/Animations/Toggle.controller
+  artifactKey: Guid(e97a9384870f54283bcb4d5078b15c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Animations/Toggle.controller using Guid(e97a9384870f54283bcb4d5078b15c77) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1945738254ba179998a4c6a86936837') in 0.008489 seconds
+  Import took 0.011726 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016337 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs
+  artifactKey: Guid(2787a46a4dc848c1b4b7b9307b614bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/ShaderPropAnimator.cs using Guid(2787a46a4dc848c1b4b7b9307b614bfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ea9eaaf65a52e2686d0407dafc136be3') in 0.007499 seconds
+  Import took 0.010512 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021033 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+  artifactKey: Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset using Guid(c41005c129ba4d66911b75229fd70b45) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a65b7724ccaf69a7a7d70dd4e4564ec') in 0.010480 seconds
+  Import took 0.029105 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027704 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity
+  artifactKey: Guid(39a1fa96ad2a449b908fca29d4297a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/06 - Extra Rich Text Examples.unity using Guid(39a1fa96ad2a449b908fca29d4297a74) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fd6471f6337b0e8f46e40e39b7b565d') in 0.010466 seconds
+  Import took 0.013798 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.086106 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+  artifactKey: Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Sprite.shader using Guid(cf81c85f95fe47e1a27f6ae460cf182c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9875dc117bc68b265244fdc6ee42e540') in 0.009453 seconds
+  Import took 0.012668 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019427 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt
+  artifactKey: Guid(381dcb09d5029d14897e55f98031fca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne Attribution.txt using Guid(381dcb09d5029d14897e55f98031fca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fb4d4749af56e74789a376ce4db030dc') in 0.012784 seconds
+  Import took 0.016101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019393 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs
+  artifactKey: Guid(2d687537154440a3913a9a3c7977978c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/CameraController.cs using Guid(2d687537154440a3913a9a3c7977978c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12d41afd0f0e6e968f1542a08abcc174') in 0.008565 seconds
+  Import took 0.011721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.083989 seconds.
+  path: Assets/Plugins/Android/androidx.fragment.fragment-1.0.0.aar
+  artifactKey: Guid(415d2de8549d70c45a75a94db275eba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.fragment.fragment-1.0.0.aar using Guid(415d2de8549d70c45a75a94db275eba5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5fb947a0588de2177d1c82289b97645') in 0.008280 seconds
+  Import took 0.011599 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047068 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-auth-interop-19.0.0.aar
+  artifactKey: Guid(1033b050d330b6340bfc70e7ffd1366e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-auth-interop-19.0.0.aar using Guid(1033b050d330b6340bfc70e7ffd1366e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eaf666cbd799540c49056f44c5db1bec') in 0.010470 seconds
+  Import took 0.014234 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009196 seconds.
+  path: Assets/Clean Settings UI/Images/backgrounds
+  artifactKey: Guid(c3dad33aa7adade4fbd79bc0a80de82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/backgrounds using Guid(c3dad33aa7adade4fbd79bc0a80de82b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b048ab541b4ae57c7e54698659d10581') in 0.010056 seconds
+  Import took 0.014551 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107142 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_background_hover.png
+  artifactKey: Guid(0e08639b8bfe949768d235105f40f9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_background_hover.png using Guid(0e08639b8bfe949768d235105f40f9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e33a5e2544ecd3d8cd120c602e4d54a') in 0.019022 seconds
+  Import took 0.022428 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076810 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity
+  artifactKey: Guid(08572ab7713642c8a60789750f0bce5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/12a - Text Interactions.unity using Guid(08572ab7713642c8a60789750f0bce5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c340e9f77bee61da9d1776afa14fa8') in 0.008145 seconds
+  Import took 0.011197 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009066 seconds.
+  path: Assets/Clean Settings UI/Prefabs
+  artifactKey: Guid(6023b5b97e55408438b1628419d4a936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Prefabs using Guid(6023b5b97e55408438b1628419d4a936) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd939af5c16e3b6bb367d3f36cd91f6e1') in 0.009418 seconds
+  Import took 0.012941 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034396 seconds.
+  path: Assets/Plugins/Android/androidx.arch.core.core-runtime-2.0.0.aar
+  artifactKey: Guid(b33e85e7e0212074c9d869761cab3f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.arch.core.core-runtime-2.0.0.aar using Guid(b33e85e7e0212074c9d869761cab3f73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f488b8b37b08d99b7a3d0551c58e968') in 0.010080 seconds
+  Import took 0.013155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064387 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd
+  artifactKey: Guid(ed5290d8df18488780e2996b9b882f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Diagonal.psd using Guid(ed5290d8df18488780e2996b9b882f01) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5152b2733fd1b9413ce8eacaab623f4b') in 0.010878 seconds
+  Import took 0.014086 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020414 seconds.
+  path: Assets/Plugins/Android/Firebase/AndroidManifest.xml
+  artifactKey: Guid(0f01f0d3a38bd3048bfcf2f96c3d4685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase/AndroidManifest.xml using Guid(0f01f0d3a38bd3048bfcf2f96c3d4685) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '960948fa5c7ed25f97c127b36fb9282a') in 0.010404 seconds
+  Import took 0.013577 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046607 seconds.
+  path: Assets/Scenes
+  artifactKey: Guid(d06be935460b9734aa2123d94b3fdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes using Guid(d06be935460b9734aa2123d94b3fdd8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '013d00a48ef4f24ca815390364ba236c') in 0.059792 seconds
+  Import took 0.063470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047681 seconds.
+  path: Assets/TextMesh Pro/Resources/Sprite Assets
+  artifactKey: Guid(512a49d95c0c4332bdd98131869c23c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Sprite Assets using Guid(512a49d95c0c4332bdd98131869c23c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a59a12990e943ec37445854046225e92') in 0.008417 seconds
+  Import took 0.011814 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.192991 seconds.
+  path: Assets/Clean Settings UI/Images/round_button_disabled.png
+  artifactKey: Guid(236fe33ac072944f983f4ac8b459d751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/round_button_disabled.png using Guid(236fe33ac072944f983f4ac8b459d751) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2e20affde993c9b1850f6642c0e1caa3') in 0.077871 seconds
+  Import took 0.081498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.165579 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset
+  artifactKey: Guid(479a66fa4b094512a62b0a8e553ad95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Blue to Purple - Vertical.asset using Guid(479a66fa4b094512a62b0a8e553ad95a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6887b6e20222ab5f1cdbc6469ac293e8') in 0.038100 seconds
+  Import took 0.041553 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020497 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts
+  artifactKey: Guid(3979ce59e55144c89a2b3b3f8dcf7fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts using Guid(3979ce59e55144c89a2b3b3f8dcf7fd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '920d4f5389a7e5db12b07d57d0a58565') in 0.010216 seconds
+  Import took 0.013619 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043647 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+  artifactKey: Guid(dd89cf5b9246416f84610a006f916af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader using Guid(dd89cf5b9246416f84610a006f916af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8166117ccc862ca06c1a82e02e7d80eb') in 0.009181 seconds
+  Import took 0.012334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.178979 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-measurement-17.4.1.aar
+  artifactKey: Guid(121f2ab6ba1b45e49a90339655f115a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-measurement-17.4.1.aar using Guid(121f2ab6ba1b45e49a90339655f115a6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '29471fcfb54e6ea81e50f4cc48f1d650') in 0.008458 seconds
+  Import took 0.011629 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063496 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd
+  artifactKey: Guid(2b5e9ae96c5644d8bae932f8b4ca68a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Quad.psd using Guid(2b5e9ae96c5644d8bae932f8b4ca68a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed9a44340b73311aafe7cebd080bc094') in 0.016195 seconds
+  Import took 0.019648 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020356 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity
+  artifactKey: Guid(e76e6c0f81964cbda3fe0b7d26ed8060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/15 - Inline Graphics & Sprites.unity using Guid(e76e6c0f81964cbda3fe0b7d26ed8060) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a35925b1064387da573ae81c480d9696') in 0.009734 seconds
+  Import took 0.013233 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.074111 seconds.
+  path: Assets/Clean Settings UI/Images/round_button_up.png
+  artifactKey: Guid(ce68cc947949d4565aca31c42afdd6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/round_button_up.png using Guid(ce68cc947949d4565aca31c42afdd6dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '72033702a2093f7b8cf971a6c9019c0a') in 0.019711 seconds
+  Import took 0.023189 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.088354 seconds.
+  path: Assets/Plugins/Android/androidx.arch.core.core-common-2.0.0.jar
+  artifactKey: Guid(c17c754d628e08c4a85ebfe754268ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.arch.core.core-common-2.0.0.jar using Guid(c17c754d628e08c4a85ebfe754268ae0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b878e00e3e33de3dcbac02d85e1deee') in 0.008444 seconds
+  Import took 0.011937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034908 seconds.
+  path: Assets/Clean Settings UI/Images/line_hover.png
+  artifactKey: Guid(ec27cb008721b40839120717c5108472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/line_hover.png using Guid(ec27cb008721b40839120717c5108472) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fb6b4e3ddb898f9e71c3b031cfb83ad') in 0.014278 seconds
+  Import took 0.017739 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020182 seconds.
+  path: Assets/Clean Settings UI/Images
+  artifactKey: Guid(8f93bd7625ed28446999de20c2f97da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images using Guid(8f93bd7625ed28446999de20c2f97da6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1865b858b1593d16489dd4f98e1c75f6') in 0.010881 seconds
+  Import took 0.014157 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016880 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs
+  artifactKey: Guid(8ef7be1c625941f7ba8ed7cc71718c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01_UGUI.cs using Guid(8ef7be1c625941f7ba8ed7cc71718c0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cf0c69862493b4e2378a0c018eb96e4') in 0.008183 seconds
+  Import took 0.011269 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017375 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs
+  artifactKey: Guid(a05dcd8be7ec4ccbb35c26219884aa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_B.cs using Guid(a05dcd8be7ec4ccbb35c26219884aa37) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69c22260abcd6e94be3e096e4e9be447') in 0.011058 seconds
+  Import took 0.014321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045782 seconds.
+  path: Assets/StreamingAssets/google-services-desktop.json
+  artifactKey: Guid(b1177d60627886f4688119bbe725d7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/google-services-desktop.json using Guid(b1177d60627886f4688119bbe725d7ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '12199be1a80a4e118ca1a68894eb696c') in 0.041562 seconds
+  Import took 0.045148 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037365 seconds.
+  path: Assets/Plugins/Android/Firebase.androidlib/res/values/google-services.xml
+  artifactKey: Guid(6f051a078028f3a4f8e62a334babea8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase.androidlib/res/values/google-services.xml using Guid(6f051a078028f3a4f8e62a334babea8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bfd5ad931ad8732dc95598a1c74336de') in 0.005448 seconds
+  Import took 0.008894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047988 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg
+  artifactKey: Guid(1cdc5b506b1a4a33a53c30669ced1f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Fruit Jelly (B&W).jpg using Guid(1cdc5b506b1a4a33a53c30669ced1f51) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '60e66a6e5751f2b61c6fc2dd1eccd83d') in 0.019057 seconds
+  Import took 0.022494 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052299 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg
+  artifactKey: Guid(2ce5c55e85304b819a1826ecbc839aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Diagonal (Color).jpg using Guid(2ce5c55e85304b819a1826ecbc839aa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26e11f5ea8b52bb6ef796c7e822696da') in 0.014545 seconds
+  Import took 0.017965 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.096306 seconds.
+  path: Assets/Clean Settings UI/Animations
+  artifactKey: Guid(89404df694453694b96c7fb351dde1ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Animations using Guid(89404df694453694b96c7fb351dde1ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33658213e5beddfe571e23fd6b59042e') in 0.010925 seconds
+  Import took 0.014295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.025579 seconds.
+  path: Assets/Clean Settings UI/Images/line_up.png
+  artifactKey: Guid(9e2d822313e334202882421561b93b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/line_up.png using Guid(9e2d822313e334202882421561b93b5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '896a1bb3632ff1191bb3137935316ef4') in 0.013111 seconds
+  Import took 0.016586 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037943 seconds.
+  path: Assets/Plugins/Android/androidx.print.print-1.0.0.aar
+  artifactKey: Guid(2f69fcc0bbabc51408d5ec224238948f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.print.print-1.0.0.aar using Guid(2f69fcc0bbabc51408d5ec224238948f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7aef8a6531b913421a3a54254b35016e') in 0.008387 seconds
+  Import took 0.011460 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017588 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset
+  artifactKey: Guid(4c86a3366cd840348ebe8dc438570ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Dark to Light Green - Vertical.asset using Guid(4c86a3366cd840348ebe8dc438570ee4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dcebd08f031dd4b0ed93403ca09fa3f8') in 0.010854 seconds
+  Import took 0.013909 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042878 seconds.
+  path: Assets/Clean Settings UI/Images/square_button_hover.png
+  artifactKey: Guid(03ba77e79215547be8d047beaaf2e040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/square_button_hover.png using Guid(03ba77e79215547be8d047beaaf2e040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22098738c886da9c895116ec9ca7a434') in 0.018290 seconds
+  Import took 0.021658 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042723 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity
+  artifactKey: Guid(21a509e1d3cd49978623fa564adb6f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/03 - Line Justification.unity using Guid(21a509e1d3cd49978623fa564adb6f02) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aba4a38f9185016bfba828ff25b9847d') in 0.009154 seconds
+  Import took 0.012466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020272 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+  artifactKey: Guid(1e3b057af24249748ff873be7fafee47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader using Guid(1e3b057af24249748ff873be7fafee47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22a587947c7f8bdb29d01ba440ae87c4') in 0.009155 seconds
+  Import took 0.012447 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.028647 seconds.
+  path: Assets/Plugins/Android/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar
+  artifactKey: Guid(7eb5499fdcb150e498af7c873a0fd1ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.swiperefreshlayout.swiperefreshlayout-1.0.0.aar using Guid(7eb5499fdcb150e498af7c873a0fd1ea) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5cc1d10a68f506a2bb3c3fbd11a1174c') in 0.010721 seconds
+  Import took 0.013917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017441 seconds.
+  path: Assets/Plugins/Android/Firebase/project.properties
+  artifactKey: Guid(65ee853a84b70754b9299b4cc6b3e7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase/project.properties using Guid(65ee853a84b70754b9299b4cc6b3e7ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'db2dc6b5736883e55b052c0246724b01') in 0.010399 seconds
+  Import took 0.013584 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048267 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+  artifactKey: Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader using Guid(a02a7d8c237544f1962732b55a9aebf1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01242a5b76c9a100f7ac81d2f92aea33') in 0.011497 seconds
+  Import took 0.014956 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011059 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Prefabs
+  artifactKey: Guid(5bff2544887143f5807c7d5059d07f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs using Guid(5bff2544887143f5807c7d5059d07f79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b078fee34a303d7373255f913503ee28') in 0.007029 seconds
+  Import took 0.009992 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047005 seconds.
+  path: Assets/Plugins/Android/androidx.lifecycle.lifecycle-livedata-core-2.0.0.aar
+  artifactKey: Guid(cc3adfd3f4eacbf4d9bc0a6dcd3f8c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.lifecycle.lifecycle-livedata-core-2.0.0.aar using Guid(cc3adfd3f4eacbf4d9bc0a6dcd3f8c06) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90de42b07ded44b4b1c33f12947e88f4') in 0.009228 seconds
+  Import took 0.012604 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084386 seconds.
+  path: Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+  artifactKey: Guid(d82c1b31c7e74239bff1220585707d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt using Guid(d82c1b31c7e74239bff1220585707d2b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b4f6cb9941e9c6ae628ddb3138da50f') in 0.009946 seconds
+  Import took 0.013270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.064750 seconds.
+  path: Assets/Plugins/Android/androidx.drawerlayout.drawerlayout-1.0.0.aar
+  artifactKey: Guid(9b5b062a3a488bb4e80fcfc82b183f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.drawerlayout.drawerlayout-1.0.0.aar using Guid(9b5b062a3a488bb4e80fcfc82b183f64) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b8e80f1af93d26e0791498b9dc44cb7d') in 0.008991 seconds
+  Import took 0.020141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038888 seconds.
+  path: Assets/Clean Settings UI/Clean Settings UI.unity
+  artifactKey: Guid(c161cbe1d02774c6a988b00b2d8baadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Clean Settings UI.unity using Guid(c161cbe1d02774c6a988b00b2d8baadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3747832284b69dae1258816cc83b86f9') in 0.009834 seconds
+  Import took 0.013281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.127266 seconds.
+  path: Assets/Plugins/Android/Firebase
+  artifactKey: Guid(2e3bf6aca330d3448961bfeeb7ea1143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase using Guid(2e3bf6aca330d3448961bfeeb7ea1143) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0ee3c81425f367303774a7d93c61add0') in 0.008705 seconds
+  Import took 0.011733 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.132043 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg
+  artifactKey: Guid(602cb87b6a29443b8636370ea0751574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_diffuse.jpg using Guid(602cb87b6a29443b8636370ea0751574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ad7459947b696f1d78de6e0ea7afdc16') in 0.017356 seconds
+  Import took 0.020735 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033148 seconds.
+  path: Assets/Plugins/Android/androidx.lifecycle.lifecycle-viewmodel-2.0.0.aar
+  artifactKey: Guid(1274e99a0ea7eac44b5cb8a0d79be040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.lifecycle.lifecycle-viewmodel-2.0.0.aar using Guid(1274e99a0ea7eac44b5cb8a0d79be040) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b8d785e47977ab31160a4334c346ea2') in 0.009199 seconds
+  Import took 0.012501 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017868 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity
+  artifactKey: Guid(54e994244b4b467e8583cf2da6dcc716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/23 - Animating Vertex Attributes.unity using Guid(54e994244b4b467e8583cf2da6dcc716) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25a927ba1b4c0370b3b2a611376e870c') in 0.009736 seconds
+  Import took 0.012637 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019028 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+  artifactKey: Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader using Guid(14eb328de4b8eb245bb7cea29e4ac00b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8ac2674661dc0f2ac800d77d1b6c474c') in 0.010569 seconds
+  Import took 0.014697 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.013314 seconds.
+  path: Assets/Scenes/Main.unity
+  artifactKey: Guid(d3c095d7e7b30644c925998a0b5842a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/Main.unity using Guid(d3c095d7e7b30644c925998a0b5842a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '845ae59631e74ac559a4db94a9d0f8d8') in 0.005618 seconds
+  Import took 0.009176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017681 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+  artifactKey: Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF.shader using Guid(68e6db2ebdc24f95958faec2be5558d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '548269e4a80891396ae8ac20c38131cc') in 0.011469 seconds
+  Import took 0.014988 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011614 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials
+  artifactKey: Guid(4f1e85c79acf49968737939ce8b445c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Fonts & Materials using Guid(4f1e85c79acf49968737939ce8b445c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6fb9e4a1521a5e66eac1084f009e043e') in 0.009824 seconds
+  Import took 0.013169 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011710 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes
+  artifactKey: Guid(db1090641b3241f6995b587eb21637bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes using Guid(db1090641b3241f6995b587eb21637bc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16d6c965f9d567764ddb507528f0bc67') in 0.007937 seconds
+  Import took 0.010877 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017226 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity
+  artifactKey: Guid(c3f814e1d12c45568daf3dd9a86a0e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/10 - Bullets & Numbered List Example.unity using Guid(c3f814e1d12c45568daf3dd9a86a0e61) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9d0cf688518e21ab0d26aabfbab557ec') in 0.008804 seconds
+  Import took 0.012013 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.072936 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg
+  artifactKey: Guid(8878a782f4334ecbbcf683b3ac780966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Small Crate_normal.jpg using Guid(8878a782f4334ecbbcf683b3ac780966) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b7610b3aad58b5466245dec9799a0798') in 0.020488 seconds
+  Import took 0.023945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022247 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs
+  artifactKey: Guid(a4b6f99e8bc54541bbd149b014ff441c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/EnvMapAnimator.cs using Guid(a4b6f99e8bc54541bbd149b014ff441c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd0e90b222a6b19fb6b701ddb3774632a') in 0.011955 seconds
+  Import took 0.015203 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018622 seconds.
+  path: Assets/Clean Settings UI/Animations/InputField.controller
+  artifactKey: Guid(33a9e5500c6b844a4a33a375b3340d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Animations/InputField.controller using Guid(33a9e5500c6b844a4a33a375b3340d0d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '584c1f0fdc2764d7a92b4ac47f932465') in 0.010171 seconds
+  Import took 0.013598 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.034277 seconds.
+  path: Assets/Clean Settings UI/Animations/Slider.controller
+  artifactKey: Guid(26429f1bb456f4ece9afe71701e3d4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Animations/Slider.controller using Guid(26429f1bb456f4ece9afe71701e3d4c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fddf01a24bc5fe39a6882b213f34403b') in 0.009912 seconds
+  Import took 0.013074 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035569 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_checkmark.png
+  artifactKey: Guid(b59d8b3d6a1754128ac189a70f41db08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_checkmark.png using Guid(b59d8b3d6a1754128ac189a70f41db08) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '666b2e5f81088018e9448d2924ece825') in 0.018517 seconds
+  Import took 0.021875 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042887 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs
+  artifactKey: Guid(21256c5b62f346f18640dad779911e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextInfoDebugTool.cs using Guid(21256c5b62f346f18640dad779911e20) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2009719e266358a62c74f69364f3d58a') in 0.010118 seconds
+  Import took 0.013563 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.042038 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs
+  artifactKey: Guid(d412675cfb3441efa3bf8dcd9b7624dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/SkewTextExample.cs using Guid(d412675cfb3441efa3bf8dcd9b7624dc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5db526cfd26a0b02b6355835911b9982') in 0.008446 seconds
+  Import took 0.011983 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052263 seconds.
+  path: Assets/Plugins/Android/androidx.cursoradapter.cursoradapter-1.0.0.aar
+  artifactKey: Guid(e96be2639cc951f43a32d462cb6b018b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.cursoradapter.cursoradapter-1.0.0.aar using Guid(e96be2639cc951f43a32d462cb6b018b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd3726df6386e7b49e4f5c9808ffdb0ba') in 0.008432 seconds
+  Import took 0.011527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018579 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity
+  artifactKey: Guid(8f7137eacd7042d5b17ef0efe5e744f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/04 - Word Wrapping.unity using Guid(8f7137eacd7042d5b17ef0efe5e744f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a4c86d2aec5c871060ffdef6e1e0c23') in 0.011618 seconds
+  Import took 0.014719 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.071460 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-auth-19.3.1.aar
+  artifactKey: Guid(c16d21d43decb9a4ea231921d82727b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-auth-19.3.1.aar using Guid(c16d21d43decb9a4ea231921d82727b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c25ae878386f399beeff7b11489c01b') in 0.010478 seconds
+  Import took 0.013690 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010854 seconds.
+  path: Assets/Plugins/Android
+  artifactKey: Guid(a34018a667f80714688d8e74c8638316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android using Guid(a34018a667f80714688d8e74c8638316) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d493f5c9340caf5edb90ea746a86ad7') in 0.009653 seconds
+  Import took 0.012915 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.073053 seconds.
+  path: Assets/Plugins/Android/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar
+  artifactKey: Guid(3ae003514d3ba8f48a5e15bd6219838a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.asynclayoutinflater.asynclayoutinflater-1.0.0.aar using Guid(3ae003514d3ba8f48a5e15bd6219838a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '226bc56db355c70edda8d47cf977bb0c') in 0.008503 seconds
+  Import took 0.011614 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020181 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs
+  artifactKey: Guid(f7cfa58e417a46ea8889989684c2522e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexShakeA.cs using Guid(f7cfa58e417a46ea8889989684c2522e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6f73a4bca4af66e20bca1454c4e82f76') in 0.009865 seconds
+  Import took 0.012734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043295 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab
+  artifactKey: Guid(fdad9d952ae84cafb74c63f2e694d042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Prefabs/TextMeshPro - Prefab 2.prefab using Guid(fdad9d952ae84cafb74c63f2e694d042) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae6a197f538d7094668168a08fa514f0') in 0.028870 seconds
+  Import took 0.032472 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060623 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png
+  artifactKey: Guid(c76d18757a194d618355f05f815cb0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Text Overflow - Linked Text UI Screenshot.png using Guid(c76d18757a194d618355f05f815cb0a1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8a18d69d272515df0eed524cdfd7d8ce') in 0.067005 seconds
+  Import took 0.070378 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046724 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+  artifactKey: Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader using Guid(fe393ace9b354375a9cb14cdbbc28be4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fdd727bd6c6e06e53e8b6b7e034e2ca') in 0.009589 seconds
+  Import took 0.013067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020843 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs
+  artifactKey: Guid(53d91f98a2664f5cb9af11de72ac54ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/ChatController.cs using Guid(53d91f98a2664f5cb9af11de72ac54ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19deb73ef7a2589211fa4a84599ff91e') in 0.013108 seconds
+  Import took 0.016246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018643 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+  artifactKey: Guid(128e987d567d4e2c824d754223b3f3b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader using Guid(128e987d567d4e2c824d754223b3f3b0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb1c70f80faf9298ed7d5505802c26eb') in 0.012124 seconds
+  Import took 0.015393 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.041293 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt
+  artifactKey: Guid(d2cf87a8a7a94aa8b80dff1c807c1178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Oswald-Bold - OFL.txt using Guid(d2cf87a8a7a94aa8b80dff1c807c1178) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4f544a697b7024b12ab77d28368af55d') in 0.009637 seconds
+  Import took 0.012852 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050590 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Sprites
+  artifactKey: Guid(701e577af2ba48b689972d42efb95456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Sprites using Guid(701e577af2ba48b689972d42efb95456) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f692ea300b2f1d651006576d93ac82a5') in 0.027636 seconds
+  Import took 0.031178 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018048 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+  artifactKey: Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader using Guid(c8d12adcee749c344b8117cf7c7eb912) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '54b253261e9288487542af009245c9c1') in 0.012904 seconds
+  Import took 0.016179 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044068 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity
+  artifactKey: Guid(6250f98e58fe4abbaada5d84b7ca846d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/22 - Basic Scripting Example.unity using Guid(6250f98e58fe4abbaada5d84b7ca846d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4fe88886eb54d8afafa21d7938113c4a') in 0.009809 seconds
+  Import took 0.013687 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.147630 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-components-16.0.0.aar
+  artifactKey: Guid(2983e7bb9f043f74caaab792dfe17fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-components-16.0.0.aar using Guid(2983e7bb9f043f74caaab792dfe17fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '659ffb02d5f7b82f6c41fc9f5d106673') in 0.011500 seconds
+  Import took 0.015223 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010363 seconds.
+  path: Assets/Plugins/Android/Firebase/res
+  artifactKey: Guid(8503ffbe9398fd944b2d671ee8cba911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase/res using Guid(8503ffbe9398fd944b2d671ee8cba911) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2a3b1441badae40674f59649530af194') in 0.015638 seconds
+  Import took 0.019305 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.063556 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-database-collection-17.0.1.aar
+  artifactKey: Guid(caf4fcf1d4fd80c4da63a2fd00d31a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-database-collection-17.0.1.aar using Guid(caf4fcf1d4fd80c4da63a2fd00d31a19) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '684280018e37e20d4f6019e0442504cd') in 0.009116 seconds
+  Import took 0.012645 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.696586 seconds.
+  path: Assets/Plugins/Android/androidx.customview.customview-1.0.0.aar
+  artifactKey: Guid(e0fc30901e7e9fc4995d2025bab7217d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.customview.customview-1.0.0.aar using Guid(e0fc30901e7e9fc4995d2025bab7217d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78de8e2e7b51c523aa67ec1b1d738743') in 0.058596 seconds
+  Import took 0.062029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.090565 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs
+  artifactKey: Guid(24b0dc2d1d494adbbec1f4db26b4cf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_UiFrameRateCounter.cs using Guid(24b0dc2d1d494adbbec1f4db26b4cf83) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3438d258f75d97633d7fbf2dbea548da') in 0.015213 seconds
+  Import took 0.018592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.640680 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.json
+  artifactKey: Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.json using Guid(8f05276190cf498a8153f6cbe761d4e6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '694879dceeaa53e129f6aee49b6e4ab7') in 0.039968 seconds
+  Import took 0.043384 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.046310 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs
+  artifactKey: Guid(103e0a6a1d404693b9fb1a5173e0e979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextSelector_A.cs using Guid(103e0a6a1d404693b9fb1a5173e0e979) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '755f8229ae5cafed1fbcd517efa7cd3a') in 0.045271 seconds
+  Import took 0.048812 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024731 seconds.
+  path: Assets/TextMesh Pro/Resources/Fonts & Materials
+  artifactKey: Guid(731f1baa9d144a9897cb1d341c2092b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Fonts & Materials using Guid(731f1baa9d144a9897cb1d341c2092b8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8270544067666dc12f9f41acb1c6c6ce') in 0.024015 seconds
+  Import took 0.027205 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.213662 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_background_down.png
+  artifactKey: Guid(7f0335412a0044a149f71aeb77ff61b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_background_down.png using Guid(7f0335412a0044a149f71aeb77ff61b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5c409a26c8f519a27f3ccda39c407328') in 0.031509 seconds
+  Import took 0.034985 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031873 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs
+  artifactKey: Guid(790744c462254b7ba8038e6ed28b3db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/WarpTextExample.cs using Guid(790744c462254b7ba8038e6ed28b3db2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e5f7379822e520e17f340b09a935142') in 0.027384 seconds
+  Import took 0.030766 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019732 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity
+  artifactKey: Guid(3e2e4d7b0bed4cf9ab827e9f32448f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/17 - Old Computer Terminal.unity using Guid(3e2e4d7b0bed4cf9ab827e9f32448f69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '333a8e8c0490143d464b539950137ce1') in 0.013211 seconds
+  Import took 0.016326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.248932 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg
+  artifactKey: Guid(17c350171f7a3ca479f830547c66d187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Sunny Days - Seamless.jpg using Guid(17c350171f7a3ca479f830547c66d187) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '22773707e14c22e57a84ea843d8a5d9c') in 0.020677 seconds
+  Import took 0.024091 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.348726 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-database-19.3.0.aar
+  artifactKey: Guid(9d4ac3740c865224ba571e55f6216a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-database-19.3.0.aar using Guid(9d4ac3740c865224ba571e55f6216a50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25e15907a0803c1654001e7a50cf65f4') in 0.010560 seconds
+  Import took 0.013997 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031501 seconds.
+  path: Assets/Plugins/Android/Firebase.androidlib/AndroidManifest.xml
+  artifactKey: Guid(c1844a451ffa8534a9f075669ca453a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase.androidlib/AndroidManifest.xml using Guid(c1844a451ffa8534a9f075669ca453a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b0ef3d6a033bd6b3feb53448a886574') in 0.020809 seconds
+  Import took 0.024028 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026168 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Materials
+  artifactKey: Guid(5808953df7a24274a851aa6dee52d30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Materials using Guid(5808953df7a24274a851aa6dee52d30e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '27ee6ec87626dfc2f48c3d30e4b59d9a') in 0.014642 seconds
+  Import took 0.018231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119850 seconds.
+  path: Assets/Clean Settings UI/Images/round_button_down.png
+  artifactKey: Guid(d560951d64728465d8985378b1101f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/round_button_down.png using Guid(d560951d64728465d8985378b1101f3a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3e8d10a2e99fd4278459decf2708fabb') in 0.040360 seconds
+  Import took 0.043796 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.223876 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-common-19.3.0.aar
+  artifactKey: Guid(0c4e0c79e9852e44d9743023aebbcfb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-common-19.3.0.aar using Guid(0c4e0c79e9852e44d9743023aebbcfb0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ca541723f7ce8e1cba9fbf3c9603914') in 0.011170 seconds
+  Import took 0.014743 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026111 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs
+  artifactKey: Guid(2ed57967c52645d390a89dcf8f61ba73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexJitter.cs using Guid(2ed57967c52645d390a89dcf8f61ba73) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1433c889c4c95ed1336a9a8358b833ca') in 0.012512 seconds
+  Import took 0.015937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.296484 seconds.
+  path: Assets/Plugins/Android/androidx.legacy.legacy-support-core-ui-1.0.0.aar
+  artifactKey: Guid(9d07fcefe0479914f95509530005807d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.legacy.legacy-support-core-ui-1.0.0.aar using Guid(9d07fcefe0479914f95509530005807d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa1b821674ab21374f632d07dbc1c86b') in 0.009834 seconds
+  Import took 0.013527 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024893 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs
+  artifactKey: Guid(dc20866c0d5e413ab7559440e15333ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark04.cs using Guid(dc20866c0d5e413ab7559440e15333ae) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '040c06c3f6cde630ffb7944c33dce811') in 0.011205 seconds
+  Import took 0.014630 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043300 seconds.
+  path: Assets/Clean Settings UI/Animations/SquareButton.controller
+  artifactKey: Guid(1d374a809406b4b858eed40a2011661a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Animations/SquareButton.controller using Guid(1d374a809406b4b858eed40a2011661a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5517e1f5a1bf752981f031077729f14e') in 0.010263 seconds
+  Import took 0.013628 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.124017 seconds.
+  path: Assets/Plugins/Android/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar
+  artifactKey: Guid(7ddc1799ab6ba054c9738007728a517d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.coordinatorlayout.coordinatorlayout-1.0.0.aar using Guid(7ddc1799ab6ba054c9738007728a517d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a22c089a2c89e359f7bd3b190adf680f') in 0.010313 seconds
+  Import took 0.014281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.076146 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt
+  artifactKey: Guid(efe0bf4ac872451e91612d1ae593f480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Bangers - OFL.txt using Guid(efe0bf4ac872451e91612d1ae593f480) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '356f75ed628bba8b753f45c72e9e0c5f') in 0.009849 seconds
+  Import took 0.013333 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017129 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+  artifactKey: Guid(85187c2149c549c5b33f0cdb02836b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader using Guid(85187c2149c549c5b33f0cdb02836b17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2d5cfbfab5a562257d07b6770421cb5d') in 0.009574 seconds
+  Import took 0.012558 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019075 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs
+  artifactKey: Guid(a4d4c76e63944cba8c7d00f56334b98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TextMeshProFloatingText.cs using Guid(a4d4c76e63944cba8c7d00f56334b98c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e9d2b8d53ce6f177fbc4820f8016e4c3') in 0.008549 seconds
+  Import took 0.011889 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018786 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc
+  artifactKey: Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Properties.cginc using Guid(3997e2241185407d80309a82f9148466) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c39c9ec3903189a3ba7093eeca3434') in 0.008863 seconds
+  Import took 0.012263 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018794 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity
+  artifactKey: Guid(22a2fba786ad4c40ac0ba09f0b933100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/14 - Multi Font & Sprites.unity using Guid(22a2fba786ad4c40ac0ba09f0b933100) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0d7d189de81d790364a36ed93e9e2f3') in 0.008474 seconds
+  Import took 0.011452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.052985 seconds.
+  path: Assets/Clean Settings UI/Images/line_background.png
+  artifactKey: Guid(9d155774f1cd844f9978af0b323fe107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/line_background.png using Guid(9d155774f1cd844f9978af0b323fe107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffb5d75cde7ef929262952b70d21e83f') in 0.012620 seconds
+  Import took 0.016125 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.008563 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets
+  artifactKey: Guid(7f422cd1388b01047a58cd07c7a23d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets using Guid(7f422cd1388b01047a58cd07c7a23d9d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0736811f1f477d27bf82f600b804724a') in 0.009999 seconds
+  Import took 0.012834 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017644 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity
+  artifactKey: Guid(8c4969fd8ba94a68b07cf11f3e7a5137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/24 - Surface Shader Example.unity using Guid(8c4969fd8ba94a68b07cf11f3e7a5137) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '770cc08e581452cf5b2fb8e6e4a199a5') in 0.008323 seconds
+  Import took 0.011302 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.110694 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs
+  artifactKey: Guid(9eff140b25d64601aabc6ba32245d099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/SimpleScript.cs using Guid(9eff140b25d64601aabc6ba32245d099) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62f0b84ad52be28839820e0b140d8e06') in 0.009085 seconds
+  Import took 0.012503 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.077036 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-stats-17.0.0.aar
+  artifactKey: Guid(f70bbd2379349e247b6968e8bd8fd833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-stats-17.0.0.aar using Guid(f70bbd2379349e247b6968e8bd8fd833) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5343af35df762044ce203e67491002ff') in 0.008893 seconds
+  Import took 0.012458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044955 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-iid-interop-17.0.0.aar
+  artifactKey: Guid(69b682752af5cf94aa07ba65ed7704b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-iid-interop-17.0.0.aar using Guid(69b682752af5cf94aa07ba65ed7704b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f6ddf0487316c0209f7cfbf555dc8757') in 0.008520 seconds
+  Import took 0.012112 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060908 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-measurement-api-17.4.1.aar
+  artifactKey: Guid(b422679c4643c8a43a84063eef658c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-measurement-api-17.4.1.aar using Guid(b422679c4643c8a43a84063eef658c26) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '36a0f48c7901d67462aba3035074dbf6') in 0.010334 seconds
+  Import took 0.013475 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.078904 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd
+  artifactKey: Guid(7631f4eff8f74ed38eb3eb9db17134e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Wipe Pattern - Radial Double.psd using Guid(7631f4eff8f74ed38eb3eb9db17134e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6f35be37ff90d6b3832fbc890aec65d') in 0.012566 seconds
+  Import took 0.015837 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010374 seconds.
+  path: Assets/TextMesh Pro/Documentation
+  artifactKey: Guid(8e7e8f5a82a3a134e91c54efd2274ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Documentation using Guid(8e7e8f5a82a3a134e91c54efd2274ea9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3a4f8d5c5a72b148c77849b95f5149a7') in 0.011829 seconds
+  Import took 0.015000 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.106860 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-iid-20.1.5.aar
+  artifactKey: Guid(e54fcef51bad4ec44904392b73acd9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-iid-20.1.5.aar using Guid(e54fcef51bad4ec44904392b73acd9a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ceab2b36d55eda081b60e2d714b242e3') in 0.008577 seconds
+  Import took 0.011731 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.108441 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-17.0.0.aar
+  artifactKey: Guid(7968f35f50a9fc845b8321a8b44a8dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-ads-identifier-17.0.0.aar using Guid(7968f35f50a9fc845b8321a8b44a8dd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c574d551fb1b2dc364be08f276e0d97d') in 0.008592 seconds
+  Import took 0.011708 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.092312 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-analytics-17.4.1.aar
+  artifactKey: Guid(e67253c2c17d6a848ae9c3f5ab9e5aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-analytics-17.4.1.aar using Guid(e67253c2c17d6a848ae9c3f5ab9e5aa2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08a2079bd465be7a652c442d1e92034a') in 0.008570 seconds
+  Import took 0.011843 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020824 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs
+  artifactKey: Guid(f970ea55f9f84bf79b05dab180b8c125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark01.cs using Guid(f970ea55f9f84bf79b05dab180b8c125) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '68dec7b9afb6284128ea1c2533fe2517') in 0.008982 seconds
+  Import took 0.012418 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016558 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro.cginc
+  artifactKey: Guid(407bc68d299748449bbf7f48ee690f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro.cginc using Guid(407bc68d299748449bbf7f48ee690f8d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9f8127755ec63a261de108c8dc41a7') in 0.015974 seconds
+  Import took 0.019458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019357 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity
+  artifactKey: Guid(349f38d3606449708c7340d26740e1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/09 - Margin Tag Example.unity using Guid(349f38d3606449708c7340d26740e1e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2af15401943ef67463fc702702eee311') in 0.009831 seconds
+  Import took 0.013322 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019715 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity
+  artifactKey: Guid(337f92480dd24675aae9e79210fb1ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/20 - Input Field with Scrollbar.unity using Guid(337f92480dd24675aae9e79210fb1ad9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8809851ed625eb8dd73765dc98b6fada') in 0.008944 seconds
+  Import took 0.012161 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012781 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs
+  artifactKey: Guid(ac1eb05af6d391b4eb0f4c070a99f1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/DropdownSample.cs using Guid(ac1eb05af6d391b4eb0f4c070a99f1d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c0e3d7f885559f74e2a4fa60ae7a6cbc') in 0.010423 seconds
+  Import took 0.013679 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.011333 seconds.
+  path: Assets/TextMesh Pro/Resources/Style Sheets
+  artifactKey: Guid(4aecb92fff08436c8303b10eab8da368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/Style Sheets using Guid(4aecb92fff08436c8303b10eab8da368) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd985bcd4463003aab0d47d7e4c8d0257') in 0.009974 seconds
+  Import took 0.013209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026488 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt
+  artifactKey: Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans - OFL.txt using Guid(6e59c59b81ab47f9b6ec5781fa725d2c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b705acf661b7470e6ccdbae61e33671') in 0.010243 seconds
+  Import took 0.013612 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010634 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts
+  artifactKey: Guid(b63e0053080646b9819789bf3bf9fa17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts using Guid(b63e0053080646b9819789bf3bf9fa17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ffc5a1b8a2a2de2e4acdc189bc76495f') in 0.009902 seconds
+  Import took 0.012894 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.262324 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-installations-interop-16.0.0.aar
+  artifactKey: Guid(2d02710965a1e4745873fe9edf3e61ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-installations-interop-16.0.0.aar using Guid(2d02710965a1e4745873fe9edf3e61ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '13a2b12087fdfbcf4d7d408847bcb0a4') in 0.008734 seconds
+  Import took 0.011945 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.035629 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+  artifactKey: Guid(bc1ede39bf3643ee8e493720e4259791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader using Guid(bc1ede39bf3643ee8e493720e4259791) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ac54fe2cb87410073754c9b238e928ad') in 0.008483 seconds
+  Import took 0.011620 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.282192 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset
+  artifactKey: Guid(14aa93acbb234d16aaef0e8b46814db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Sprite Assets/DropCap Numbers.asset using Guid(14aa93acbb234d16aaef0e8b46814db6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fa194f3c640c3252991b3475dc15e40a') in 0.010172 seconds
+  Import took 0.013768 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.082785 seconds.
+  path: Assets/Plugins/Android/androidx.loader.loader-1.0.0.aar
+  artifactKey: Guid(88c05f24e3ce4f14eb0b9666398000cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.loader.loader-1.0.0.aar using Guid(88c05f24e3ce4f14eb0b9666398000cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5a46371c166d6a8ece0e0d0ae7bf5770') in 0.010353 seconds
+  Import took 0.013960 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.113522 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg
+  artifactKey: Guid(03d0538de6e24c0f819bfc9ce084dfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Gradient Vertical (Color).jpg using Guid(03d0538de6e24c0f819bfc9ce084dfa9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b3548c64939d86ad05bf788f61cc8b89') in 0.012778 seconds
+  Import took 0.016309 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.059705 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc
+  artifactKey: Guid(c334973cef89a9840b0b0c507e0377ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMPro_Mobile.cginc using Guid(c334973cef89a9840b0b0c507e0377ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39f15035844f466a6cc0c9d7185c83c1') in 0.009123 seconds
+  Import took 0.012319 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.024447 seconds.
+  path: Assets/Clean Settings UI/Images/scrollhandle.png
+  artifactKey: Guid(8c05173172a204c4f8d01299c77dc101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/scrollhandle.png using Guid(8c05173172a204c4f8d01299c77dc101) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5e671e629e30b0272ed876d81daa5040') in 0.017337 seconds
+  Import took 0.020684 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033846 seconds.
+  path: Assets/Plugins/Android/androidx.lifecycle.lifecycle-runtime-2.0.0.aar
+  artifactKey: Guid(1d4bd6a33630861498798c665f710e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.lifecycle.lifecycle-runtime-2.0.0.aar using Guid(1d4bd6a33630861498798c665f710e36) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b386d1e82b963f180dc69b4206582b74') in 0.009269 seconds
+  Import took 0.012864 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.016361 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity
+  artifactKey: Guid(16177da2e3254cee91944756d5f8ddd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/Benchmark (Floating Text).unity using Guid(16177da2e3254cee91944756d5f8ddd3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2c1080d475920d3c8d64eb49e42aee35') in 0.011838 seconds
+  Import took 0.014886 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.184610 seconds.
+  path: Assets/Plugins/Android/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0.aar
+  artifactKey: Guid(d5742392c5e42a245b5fabdd497d461f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.localbroadcastmanager.localbroadcastmanager-1.0.0.aar using Guid(d5742392c5e42a245b5fabdd497d461f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '66e1c9254b77c820e5fb4df8a04d3227') in 0.008627 seconds
+  Import took 0.011876 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.045884 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs
+  artifactKey: Guid(83680ab1a69f4102ac67d1459fe76e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_PhoneNumberValidator.cs using Guid(83680ab1a69f4102ac67d1459fe76e1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '55e8c4a7aefe0853819fcd99e516cc85') in 0.011283 seconds
+  Import took 0.014727 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.162003 seconds.
+  path: Assets/Plugins/Android/androidx.annotation.annotation-1.1.0.jar
+  artifactKey: Guid(fd2568b8022e32d4d9003bc45071b66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.annotation.annotation-1.1.0.jar using Guid(fd2568b8022e32d4d9003bc45071b66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ab4ed9edec08d23d8156cc05688d018b') in 0.007881 seconds
+  Import took 0.011119 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019714 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity
+  artifactKey: Guid(2ac8cf212df6445e8aebbe3cb832e993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/01-  Single Line TextMesh Pro.unity using Guid(2ac8cf212df6445e8aebbe3cb832e993) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be199743ffe87157bd617923762cff18') in 0.009780 seconds
+  Import took 0.013175 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.189241 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras
+  artifactKey: Guid(ce51c8e33b734b4db6086586558c53a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras using Guid(ce51c8e33b734b4db6086586558c53a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0b560261996033c37939027a2cc5ec') in 0.008388 seconds
+  Import took 0.011459 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.048543 seconds.
+  path: Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+  artifactKey: Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader using Guid(f7ada0af4f174f0694ca6a487b8f543d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '542eeeb42a19a9694034fc1ae6189ff1') in 0.008898 seconds
+  Import took 0.012349 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198687 seconds.
+  path: Assets/Plugins/Android/androidx.lifecycle.lifecycle-common-2.0.0.jar
+  artifactKey: Guid(6b981a6bc7c55f94aa1168f87ad304d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.lifecycle.lifecycle-common-2.0.0.jar using Guid(6b981a6bc7c55f94aa1168f87ad304d0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee41018e3546615d2194bb3ab422ace4') in 0.008610 seconds
+  Import took 0.012290 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.224008 seconds.
+  path: Assets/Plugins/Android/Firebase.androidlib
+  artifactKey: Guid(76031ed7d1468d64dac6d5379fe9c722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase.androidlib using Guid(76031ed7d1468d64dac6d5379fe9c722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f8fd4a4305d88d77b5d44c7e06c0247b') in 0.008791 seconds
+  Import took 0.011913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017707 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs
+  artifactKey: Guid(d736ce056cf444ca96e424f4d9c42b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventCheck.cs using Guid(d736ce056cf444ca96e424f4d9c42b76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a12ab253432f43326734193459a756ef') in 0.008331 seconds
+  Import took 0.011470 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.257438 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd
+  artifactKey: Guid(bb8dfcd263ad4eb383a33d74a720be6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Textures/Mask Zig-n-Zag.psd using Guid(bb8dfcd263ad4eb383a33d74a720be6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '03ffcbd365e21f5b69f76addc84c99c8') in 0.019058 seconds
+  Import took 0.022510 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.084622 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset
+  artifactKey: Guid(5cf8ae092ca54931b443bec5148f3c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Resources/Color Gradient Presets/Light to Dark Green - Vertical.asset using Guid(5cf8ae092ca54931b443bec5148f3c59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e4080a708701963d80acf6a3b0c30df9') in 0.009311 seconds
+  Import took 0.012649 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.126642 seconds.
+  path: Assets/Plugins/Android/androidx.core.core-1.0.0.aar
+  artifactKey: Guid(20d883c824f8f6945ba6a40330d5561a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.core.core-1.0.0.aar using Guid(20d883c824f8f6945ba6a40330d5561a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7f981695a1c3728ec410869d57389b33') in 0.009300 seconds
+  Import took 0.012746 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.043089 seconds.
+  path: Assets/Clean Settings UI/Images/round_button_hover.png
+  artifactKey: Guid(aa238a8b068cd4059abd32376ca2a34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/round_button_hover.png using Guid(aa238a8b068cd4059abd32376ca2a34c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd1c5a5ab88ec1c5d47ef9e4045e5cb7a') in 0.027619 seconds
+  Import took 0.030976 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.033485 seconds.
+  path: Assets/Plugins/Android/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar
+  artifactKey: Guid(cdcc97d92536c334a9b368f63d4b4448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.slidingpanelayout.slidingpanelayout-1.0.0.aar using Guid(cdcc97d92536c334a9b368f63d4b4448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1456619e86e0c5732d8adf4f9a8f12ea') in 0.009058 seconds
+  Import took 0.012434 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.047084 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_checkmark_disabled.png
+  artifactKey: Guid(bb746f211bf094d03bf276778d9ac0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_checkmark_disabled.png using Guid(bb746f211bf094d03bf276778d9ac0ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a3f4132b46ac7c6f0f1a69992439f3e8') in 0.025289 seconds
+  Import took 0.028695 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.096736 seconds.
+  path: Assets/Scripts/FirebaseManager.cs
+  artifactKey: Guid(2767123b2f624cd4e8e9e09f2c7a48da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/FirebaseManager.cs using Guid(2767123b2f624cd4e8e9e09f2c7a48da) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '77271f4182013a38255b6f6a05eb68ae') in 0.009919 seconds
+  Import took 0.013342 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.146867 seconds.
+  path: Assets/Plugins/Android/androidx.collection.collection-1.0.0.jar
+  artifactKey: Guid(c8ce5e139c633d445aba4d6783c04269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.collection.collection-1.0.0.jar using Guid(c8ce5e139c633d445aba4d6783c04269) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f55cd02297f8c0e53506f71ae6f94486') in 0.008918 seconds
+  Import took 0.012400 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.097762 seconds.
+  path: Assets/Materials
+  artifactKey: Guid(d0234ba368eeec9418390da711bfdad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Materials using Guid(d0234ba368eeec9418390da711bfdad0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0084e987169cdc8faf1529539b0e94e6') in 0.010280 seconds
+  Import took 0.014065 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026928 seconds.
+  path: Assets/Scripts/ScoreElement.cs
+  artifactKey: Guid(d0784663ae968024688a4a85e740e7b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/ScoreElement.cs using Guid(d0784663ae968024688a4a85e740e7b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10f18b9e1d2272ccead32a08d09a9735') in 0.012191 seconds
+  Import took 0.015498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.037501 seconds.
+  path: Assets/Plugins/Android/androidx.lifecycle.lifecycle-livedata-2.0.0.aar
+  artifactKey: Guid(fd331024cb9384c49945092928ee5579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.lifecycle.lifecycle-livedata-2.0.0.aar using Guid(fd331024cb9384c49945092928ee5579) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00966b91564802d82e5caaf82d132904') in 0.008878 seconds
+  Import took 0.012042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031577 seconds.
+  path: Assets/Plugins/Android/Firebase.androidlib/project.properties
+  artifactKey: Guid(c8286e595c259fd4b93281ee616775df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase.androidlib/project.properties using Guid(c8286e595c259fd4b93281ee616775df) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7d3f01527e46f171814584841359849f') in 0.011765 seconds
+  Import took 0.015187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068227 seconds.
+  path: Assets/Clean Settings UI/Images/toggle_background_up.png
+  artifactKey: Guid(6d5372022c03841b58c2b0d1d962d851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Clean Settings UI/Images/toggle_background_up.png using Guid(6d5372022c03841b58c2b0d1d962d851) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ebf12bdd510d853d7a9aa20bcc8efddf') in 0.016067 seconds
+  Import took 0.019692 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.058360 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity
+  artifactKey: Guid(84ed36ad77dd4956b2ffe3769f759879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/11 - The Style Tag.unity using Guid(84ed36ad77dd4956b2ffe3769f759879) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da2022ba5e8143dd1636ff3c5633d18b') in 0.009241 seconds
+  Import took 0.012805 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020373 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity
+  artifactKey: Guid(5fe2257128d9401fad0790f581dc8a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scenes/08 - Improved Text Alignment.unity using Guid(5fe2257128d9401fad0790f581dc8a6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '86fa5bccec3d31ecb868296fd1d29592') in 0.031706 seconds
+  Import took 0.035187 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.010732 seconds.
+  path: Assets/Plugins
+  artifactKey: Guid(f9a474a8d0e25554aa528ce78cc123f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins using Guid(f9a474a8d0e25554aa528ce78cc123f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ada73caaf2e739a405abbc2923b76e4') in 0.009591 seconds
+  Import took 0.012795 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.089892 seconds.
+  path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7961fed2e4cc67824dcf374f418ac0de') in 0.030859 seconds
+  Import took 0.034340 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.049445 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt
+  artifactKey: Guid(73a79399807f4e8388c2cbb5494681ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Fonts/Anton OFL.txt using Guid(73a79399807f4e8388c2cbb5494681ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd6dae8cc8f40ac58f87db3263412569') in 0.009243 seconds
+  Import took 0.012323 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019613 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs
+  artifactKey: Guid(c3c1afeda5e545e0b19add5373896d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMPro_InstructionOverlay.cs using Guid(c3c1afeda5e545e0b19add5373896d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '715068d4216bf105a06f8f8f9664a37c') in 0.008488 seconds
+  Import took 0.011433 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.015617 seconds.
+  path: Assets/TextMesh Pro/Sprites
+  artifactKey: Guid(d0603b6d5186471b96c778c3949c7ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites using Guid(d0603b6d5186471b96c778c3949c7ce2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f555bd231684fc055c1e483def8fd536') in 0.006600 seconds
+  Import took 0.009670 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020449 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs
+  artifactKey: Guid(91b8ba3d52e041fab2d0e0f169855539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/VertexColorCycler.cs using Guid(91b8ba3d52e041fab2d0e0f169855539) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f04eb5068988889de6fb7ed92c28b9dd') in 0.008917 seconds
+  Import took 0.012155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.009261 seconds.
+  path: Assets/Plugins/Android/Firebase/res/values
+  artifactKey: Guid(ca9b5656c2dea324ab77a81f0a2ecf7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/Firebase/res/values using Guid(ca9b5656c2dea324ab77a81f0a2ecf7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02d19ecc745f94695234abc6a8800d41') in 0.029312 seconds
+  Import took 0.032741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031858 seconds.
+  path: Assets/Plugins/Android/androidx.versionedparcelable.versionedparcelable-1.0.0.aar
+  artifactKey: Guid(e5f8cd665d1facb4ca48022d39a7a6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.versionedparcelable.versionedparcelable-1.0.0.aar using Guid(e5f8cd665d1facb4ca48022d39a7a6a4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c4ddfc393f7afc31806d9be174572f36') in 0.008778 seconds
+  Import took 0.011850 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.107132 seconds.
+  path: Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf
+  artifactKey: Guid(1b8d251f9af63b746bf2f7ffe00ebb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Documentation/TextMesh Pro User Guide 2016.pdf using Guid(1b8d251f9af63b746bf2f7ffe00ebb9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be5ff38ef68ac34cbab9f2934e4b5c4b') in 0.012951 seconds
+  Import took 0.016334 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.106830 seconds.
+  path: Assets/Plugins/Android/com.google.android.gms.play-services-measurement-sdk-17.4.1.aar
+  artifactKey: Guid(78b6c0a0116781648838d9902c184ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.android.gms.play-services-measurement-sdk-17.4.1.aar using Guid(78b6c0a0116781648838d9902c184ba6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b5f8e41ea6b257586d8b093633093b15') in 0.011420 seconds
+  Import took 0.015024 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.123678 seconds.
+  path: Assets/Plugins/Android/com.google.firebase.firebase-app-unity-6.15.2.aar
+  artifactKey: Guid(654676ce5433b454ca9c727ed27d8d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/com.google.firebase.firebase-app-unity-6.15.2.aar using Guid(654676ce5433b454ca9c727ed27d8d4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '62eaee18da264d0287d0986a3c4cca73') in 0.008454 seconds
+  Import took 0.011970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.066866 seconds.
+  path: Assets/TextMesh Pro/Resources
+  artifactKey: Guid(243e06394e614e5d99fab26083b707fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources using Guid(243e06394e614e5d99fab26083b707fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be74e539199e318bdd884aa6ee5f6a91') in 0.009412 seconds
+  Import took 0.012776 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.030514 seconds.
+  path: Assets/Plugins/Android/androidx.viewpager.viewpager-1.0.0.aar
+  artifactKey: Guid(6925d45ccb405af41b68acdfdab16f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Plugins/Android/androidx.viewpager.viewpager-1.0.0.aar using Guid(6925d45ccb405af41b68acdfdab16f29) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a240c3055c7b62cc252c7ca28381db0e') in 0.008193 seconds
+  Import took 0.011067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032371 seconds.
+  path: Assets/StreamingAssets/google-services.json
+  artifactKey: Guid(99e28331827f2c041aa6653e644c0a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StreamingAssets/google-services.json using Guid(99e28331827f2c041aa6653e644c0a22) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '892920aa300bb46942d94b6a85239795') in 0.008152 seconds
+  Import took 0.011416 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017810 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs
+  artifactKey: Guid(1312ae25639a4bae8e25ae223209cc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/TMP_TextEventHandler.cs using Guid(1312ae25639a4bae8e25ae223209cc50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8578ead8ca0d090b54ab5ec6cb084d73') in 0.123279 seconds
+  Import took 0.126635 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.050521 seconds.
+  path: Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs
+  artifactKey: Guid(e8538afcddc14efbb5d9e94b7ae50197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Examples & Extras/Scripts/Benchmark02.cs using Guid(e8538afcddc14efbb5d9e94b7ae50197) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1e0ffd264ac241665dc08859cbf6b1a') in 0.008028 seconds
+  Import took 0.011085 seconds .
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
